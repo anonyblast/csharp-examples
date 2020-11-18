@@ -1,0 +1,16 @@
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma.deps.json
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma.runtimeconfig.json
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma.runtimeconfig.dev.json
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma.dll
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/ref/EstruturaDoPrograma.dll
+/home/gustavo/EstruturaDoPrograma/bin/Debug/net5.0/EstruturaDoPrograma.pdb
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.csprojAssemblyReference.cache
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.AssemblyInfoInputs.cache
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.AssemblyInfo.cs
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.dll
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/ref/EstruturaDoPrograma.dll
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.pdb
+/home/gustavo/EstruturaDoPrograma/obj/Debug/net5.0/EstruturaDoPrograma.genruntimeconfig.cache
